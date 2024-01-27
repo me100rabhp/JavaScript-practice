@@ -1,21 +1,26 @@
- //Primitive dataTypes...
+//  //Primitive dataTypes...
 
- //7types:  String ,Number,Boolearn,Null,Undefined,Symbol,BigInt
-
-
- //Reference (Non Primitive)
-
- //Array, Objects, Functions
-
-//  const score= 100;
-//  const scorevalue = 100.3
-
-//  const isLoggedIn =false;
-//  const outsideTemp = null;
-//  let userEmail;
+//  //7types:  String ,Number,Boolearn,Null,Undefined,Symbol,BigInt
 
 
- const id=Symbol('123')
- const anotherId = Symbol('123')
+//  //Reference (Non Primitive)
 
- console.log(id==anotherId)
+//  //Array, Objects, Functions
+
+// //  const score= 100;
+// //  const scorevalue = 100.3
+
+// //  const isLoggedIn =false;
+// //  const outsideTemp = null;
+// //  let userEmail;
+
+
+//  const id=Symbol('123')
+//  const anotherId = Symbol('123')
+
+//  console.log(id==anotherId)
+
+//  //=================================================================================================================================================================
+
+
+
