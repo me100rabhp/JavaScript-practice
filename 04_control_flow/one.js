@@ -23,6 +23,8 @@ const temperature = 41;
 const balance = 1000;
 
 // if(balance>500) console.log("test").console.log("test2");
+//not good practice
+
 
 // if(balance > 500){
 //     console.log("less than 500")
