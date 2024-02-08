@@ -27,3 +27,6 @@ Object.defineProperties(chai, 'name', {
 })
 console.log(Object.getOwnPropertyDescriptor(chai,"name")
 );
+
+
+for (let)
